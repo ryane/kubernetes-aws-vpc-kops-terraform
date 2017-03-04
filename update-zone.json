@@ -1,0 +1,14 @@
+{
+  "Comment": "Create a subdomain NS record in the parent domain",
+  "Changes": [
+    {
+      "Action": "UPSERT",
+      "ResourceRecordSet": {
+        "Name": "",
+        "Type": "NS",
+        "TTL": 300,
+        "ResourceRecords": []
+      }
+    }
+  ]
+}

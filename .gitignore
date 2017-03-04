@@ -1,0 +1,6 @@
+/.terraform
+*.tfstate
+*.tfstate.backup
+gensubnets/gensubnets
+/data
+terraform.tfvars
