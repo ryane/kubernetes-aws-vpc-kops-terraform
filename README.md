@@ -37,7 +37,7 @@ kops update cluster \
   --target=terraform \
   ${NAME}
 
-terraform apply
+terraform apply -var name=yourdomain.com
 ```
 
 ## using a subdomain
