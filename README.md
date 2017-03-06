@@ -1,7 +1,9 @@
 # kubernetes-aws-vpc-kops-terraform
 
 Example code for
-the [Deploy Kubernetes in an Existing AWS VPC with Kops and Terraform]() blog post.
+the
+[Deploy Kubernetes in an Existing AWS VPC with Kops and Terraform](https://ryaneschinger.com/blog/kubernetes-aws-vpc-kops-terraform/) blog
+post.
 
 ## tldr
 
